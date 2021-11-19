@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/AndroidStudioProjects/ThingSpeakApp/app/src/main/res/layout/activity_channel.xml" value="0.1" />
+        <entry key="..\:/Android/AndroidStudioProjects/ThingSpeakApp/app/src/main/res/layout/activity_fullscreen.xml" value="0.17527173913043478" />
+        <entry key="..\:/Android/AndroidStudioProjects/ThingSpeakApp/app/src/main/res/layout/activity_main.xml" value="0.17527173913043478" />
+        <entry key="..\:/Android/AndroidStudioProjects/ThingSpeakApp/app/src/main/res/layout/activity_search.xml" value="0.17527173913043478" />
+        <entry key="..\:/Android/AndroidStudioProjects/ThingSpeakApp/app/src/main/res/layout/dialog_openchannel.xml" value="0.20364583333333333" />
+        <entry key="..\:/Android/AndroidStudioProjects/ThingSpeakApp/app/src/main/res/layout/fragment_recyclerlist.xml" value="0.1" />
+        <entry key="..\:/Android/AndroidStudioProjects/ThingSpeakApp/app/src/main/res/layout/fragment_search.xml" value="0.1" />
+        <entry key="..\:/Android/AndroidStudioProjects/ThingSpeakApp/app/src/main/res/layout/listitem_channel.xml" value="0.1" />
+        <entry key="..\:/Android/AndroidStudioProjects/ThingSpeakApp/app/src/main/res/layout/listitem_status.xml" value="0.1" />
+        <entry key="..\:/Android/AndroidStudioProjects/ThingSpeakApp/app/src/main/res/layout/view_chart.xml" value="0.1" />
+        <entry key="..\:/Android/AndroidStudioProjects/ThingSpeakApp/app/src/main/res/menu/main.xml" value="0.1" />
+        <entry key="..\:/Android/AndroidStudioProjects/ThingSpeakApp/app/src/main/res/menu/navigation_drawer.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
